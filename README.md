@@ -13,4 +13,4 @@ Sample website with plenty of files for demos
 Fork the repository and then issue pull request for review
 
 ## Copyright
-2020 Git.training
+2020 Git.training. All rights reserved.
